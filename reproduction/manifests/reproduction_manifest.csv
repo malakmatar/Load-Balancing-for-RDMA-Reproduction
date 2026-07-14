@@ -1,0 +1,9 @@
+run_id,algorithm,network_load,topology,pfc,irn,simulation_duration_s,output_path,fct_exists,fct_line_count,fct_summary_exists,fct_summary_line_count,config_exists,history_config_match,log_exists,log_fatal_error
+686576161,fecmp,50,leaf_spine_128_100G_OS2,1,0,0.1,mix/output/686576161,True,978094,True,66,True,True,True,False
+68868452,letflow,50,leaf_spine_128_100G_OS2,1,0,0.1,mix/output/68868452,True,978094,True,66,True,True,True,False
+241102861,conga,50,leaf_spine_128_100G_OS2,1,0,0.1,mix/output/241102861,True,978094,True,66,True,True,True,False
+744630416,conweave,50,leaf_spine_128_100G_OS2,1,0,0.1,mix/output/744630416,True,978094,True,66,True,True,True,False
+871741874,fecmp,50,leaf_spine_128_100G_OS2,0,1,0.1,mix/output/871741874,True,978094,True,66,True,True,True,False
+693253239,letflow,50,leaf_spine_128_100G_OS2,0,1,0.1,mix/output/693253239,True,978094,True,66,True,True,True,False
+793507963,conga,50,leaf_spine_128_100G_OS2,0,1,0.1,mix/output/793507963,True,978094,True,66,True,True,True,False
+947383735,conweave,50,leaf_spine_128_100G_OS2,0,1,0.1,mix/output/947383735,True,978094,True,66,True,True,True,False

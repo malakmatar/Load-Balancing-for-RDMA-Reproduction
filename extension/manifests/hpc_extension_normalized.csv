@@ -1,0 +1,10 @@
+workload,scenario_label,algorithm,completion_time_us,ecmp_completion_time_us,normalized_completion_time
+alltoall_sync,Synchronized all-to-all,fecmp,1377.522,1377.522,1.0
+alltoall_sync,Synchronized all-to-all,letflow,1377.542,1377.522,1.0000145188243816
+alltoall_sync,Synchronized all-to-all,conweave,1377.53,1377.522,1.0000058075297527
+alltoall_skew50us,50 us skew all-to-all,fecmp,1422.756,1422.756,1.0
+alltoall_skew50us,50 us skew all-to-all,letflow,1484.225,1422.756,1.0432041755578607
+alltoall_skew50us,50 us skew all-to-all,conweave,1422.756,1422.756,1.0
+incast_sync,Synchronized incast,fecmp,7193.622,7193.622,1.0
+incast_sync,Synchronized incast,letflow,7062.208,7193.622,0.9817318730397565
+incast_sync,Synchronized incast,conweave,6953.424,7193.622,0.966609588326993

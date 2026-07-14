@@ -1,0 +1,30 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs and runtime state
+*.log
+*.pid
+*.done
+*.exitcode
+
+# Generated simulator state
+mix/.history
+mix/hpc_extension.history
+mix/output/
+**/outputs/
+**/logs/
+
+# Build outputs
+build/
+*.o
+
+# Archives and backups
+*.zip
+*.tar.gz
+reproduction_backup_*/
